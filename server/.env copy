@@ -1,0 +1,6 @@
+PORT=5432
+db_host=localhost
+db_name=helsi2
+
+user_name=postgres
+user_password = 78789878
